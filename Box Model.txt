@@ -1,0 +1,17 @@
+Today's Lessons:
+1.  Box Model Concepts
+every element in CSS is considered as a square referred to as box
+*PADDING Vs Margin
+*PADDING: Parent pushing child.
+*Margin: child going away from Parent.
+
+2. CSS MEASURMENT UNITS
+
+*View port: Ahantu hose hagaragara kuri screen hashobora kujya contents za html
+*body tag is inside ya view port
+vh: Means view height (the size of element relative to view port (divice screen))
+View Port: Refers to the size of the screen
+
+3. POSITIONING
+to move an object relative to its own, use transform property.
+example: transform: 

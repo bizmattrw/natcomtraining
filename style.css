@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    height: 250px;
+    width: 700px;
+    border: 1px solid red;
+    background-color: aqua;
+}
+.grandparent{
+    height: 400px;
+    width: 900px;
+    border: 1px solid blue;
+    background-color: brown;
+}
+.child{
+    height: 180px;
+    width: 500px;
+    border: 1px solid blue;
+    background-color: rgb(127, 122, 122);
+    margin-top: 20px;
+    box-shadow: 0rcap;
+}
